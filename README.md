@@ -1,3 +1,3 @@
 # This is for JP Morgan's project
-Please read it. Thanks.
+This repository is used for the Intern at JP Morgan in HK. Please read it. Many Thanks.
 
